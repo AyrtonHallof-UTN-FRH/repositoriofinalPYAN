@@ -1,6 +1,6 @@
 import streamlit as st
-from numpy import linalg, array, zeros
 import matplotlib.pyplot as plt
+from numpy import linalg, array, zeros
 
 #Configuracion de la pagina#
 st.set_page_config(page_title="Perfil de Velocidades en una Placa Plana con Succión", 
