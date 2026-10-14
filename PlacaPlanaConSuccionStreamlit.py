@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 from numpy import linalg, array, zeros
 
 #Configuracion de la pagina#
